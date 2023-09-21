@@ -160,16 +160,15 @@ def highlight_solutions(img, word_coordinates, bg_color="#ffffff", text_color="#
     return combined_img
 
 
-
 FONT_PATHS = {
-    "Courier New": "C:/Windows/Fonts/cour.ttf",
-    "Georgia": "C:/Windows/Fonts/georgia.ttf",
-    "Impact": "C:/Windows/Fonts/impact.ttf",
-    "Lucida Console": "C:/Windows/Fonts/lucon.ttf",
-    "Verdana": "C:/Windows/Fonts/verdana.ttf",
-    "Ebrima": "C:/Windows/Fonts/ebrima.ttf",
-    "Constantia": "C:/Windows/Fonts/constan.ttf",
-    "Cambria": "C:/Windows/Fonts/cambria.ttc"
+    "Courier New": "fonts/cour.ttf",
+    "Georgia": "fonts/georgia.ttf",
+    "Impact": "fonts/impact.ttf",
+    "Lucida Console": "fonts/lucon.ttf",
+    "Verdana": "fonts/verdana.ttf",
+    "Ebrima": "fonts/ebrima.ttf",
+    "Constantia": "fonts/constan.ttf",
+    "Cambria": "fonts/cambria.ttc"
 }
 
 
